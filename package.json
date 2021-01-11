@@ -1,0 +1,25 @@
+{
+  "name": "tea-spill",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JimGray9999/tea-spill.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JimGray9999/tea-spill/issues"
+  },
+  "homepage": "https://github.com/JimGray9999/tea-spill#readme",
+  "devDependencies": {
+    "react-scripts": "^4.0.1"
+  }
+}
